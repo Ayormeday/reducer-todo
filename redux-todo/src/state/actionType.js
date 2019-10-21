@@ -1,0 +1,5 @@
+const ADD_TODO = "ADD_TODO";
+// const CHANGE_INPUT = "CHANGE_INPUT";
+const MARK_COMPLETE = "MARK_COMPLETE";
+const DELETE_TODO = "DELETE_TODO";
+// const SUBMIT = "SUBMIT";
